@@ -4,7 +4,7 @@ Projet pour construire un chatbot intégré à Microsoft Teams, capable d’util
 
 ---
 
-## 🚀 Objectif du projet
+## Objectif du projet
 
 ✅ Un bot dans Teams
 
@@ -16,7 +16,7 @@ Projet pour construire un chatbot intégré à Microsoft Teams, capable d’util
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 ### FastAPI (`main.py`)
 
