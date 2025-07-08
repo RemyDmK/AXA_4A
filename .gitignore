@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environnements virtuels
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Modèles ou data volumineux
+audio/
+*.wav
+*.mp3
+
+# PyTorch & transformers caches
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+*.h5
+
+# Secrets
+.env
+
+# System
+.DS_Store
+Thumbs.db
