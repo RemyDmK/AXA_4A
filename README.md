@@ -18,9 +18,6 @@ Projet pour construire un chatbot intégré à Microsoft Teams, capable d’util
 
 ## ⚙️ Architecture
 
-
-## 🧩 Composants
-
 ### FastAPI (`main.py`)
 
 **Responsabilité :**
